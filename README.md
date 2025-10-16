@@ -6,3 +6,4 @@
 |--|--|
 |td|td|
 |td|td|
+[日本電子専門学校へリンク](https://www.jec.ac.jp)
