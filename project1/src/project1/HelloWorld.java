@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		for(int i=0;i<3;i++) {
 			System.out.println("HelloWorld");
+			//ai
 		}
 	}
 }
